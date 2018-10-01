@@ -13,3 +13,4 @@ ZeroJudge | ZJ | [ZeroJudge](https://zerojudge.tw/)
 
 如上表所列，repo 的目錄規則為 `{prefix}-{題號}/{lang}`，以便整理。
 
+若有其他自己隨手練習者，以 'MY' 為 prefix
